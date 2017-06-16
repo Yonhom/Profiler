@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:id="@+id/profile_page_frag_cont"
     tools:context="com.xuyonghong.profiler.profilepage.ProfilePageActivity">
 
 </android.support.constraint.ConstraintLayout>
